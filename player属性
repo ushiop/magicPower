@@ -2,4 +2,4 @@ Terraria.Player的属性
 statLife/int/当前生命值
 statMana/int/当前魔法值
 lifeRegen/int/生命自然恢复速率
-lifeRegenTime/int/生命自然恢复冷却
+lifeRegenTime/int/生命自然恢复冷却 
