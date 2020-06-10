@@ -1,0 +1,3 @@
+displayName = magic!!
+author = ushiop
+version = 0.1
