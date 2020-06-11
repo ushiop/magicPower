@@ -3,3 +3,7 @@ statLife/int/当前生命值
 statMana/int/当前魔法值
 lifeRegen/int/生命自然恢复速率
 lifeRegenTime/int/生命自然恢复冷却 
+handon/int/似乎是手部外观
+shoe/int/似乎是腿部外观
+rocketBoots/int/火箭靴(0没有，1火箭靴，2幽灵靴，更高的应该是更高级的可飞行靴)
+rocketTime/int/飞行类靴子的剩余飞行时间
