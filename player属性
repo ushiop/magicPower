@@ -7,3 +7,4 @@ handon/int/似乎是手部外观
 shoe/int/似乎是腿部外观
 rocketBoots/int/火箭靴(0没有，1火箭靴，2幽灵靴，更高的应该是更高级的可飞行靴)
 rocketTime/int/飞行类靴子的剩余飞行时间
+pickSpeed/float/挖掘,采集速度?0-1.0，越小越快,0.65=加快35%
