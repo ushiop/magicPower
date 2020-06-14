@@ -22,7 +22,7 @@ namespace magicPower.Commands
 			=> CommandType.Chat;
 
 		public override string Command
-			=> "pp";
+			=> "p";
  
  
 
@@ -44,7 +44,10 @@ namespace magicPower.Commands
 						name=="manaRegenCount"||
 						name=="lifeRegen"||
 						name=="handon"||
-						name=="shoe"){
+						name=="shoe"||
+						name=="pickSpeed"||
+						name=="lifeRegen"||
+						name=="lifeRegenTime"){
 							continue;
 						}
 						
