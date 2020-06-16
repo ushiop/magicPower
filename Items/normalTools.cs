@@ -13,6 +13,7 @@ namespace magicPower.Items
             player.AddBuff(BuffType<Buffs.normalToolsBuff>(), 60);
             //Lighting.AddLight(p.position, 1f, 1f, 1f); 
         } 
+ 
 
 		/*public override bool UseItem(Player player){  
 			
