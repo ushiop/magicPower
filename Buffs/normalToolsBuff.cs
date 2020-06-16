@@ -28,7 +28,7 @@ namespace magicPower.Buffs
             //Lighting.AddLight(player.position, 1.5f, 1.5f, 1.5f); 
 			if(cd==0){
 				Dust.NewDust( Main.MouseWorld, player.width, player.height,91, 0f, 0f, 0,new Color(255,255,255), 1f);
-				cd=5;
+				cd=2;
 			}
 			cd--;
 		}
