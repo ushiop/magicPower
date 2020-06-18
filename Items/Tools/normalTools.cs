@@ -8,7 +8,7 @@ namespace magicPower.Items
 {
 	public class normalTools : ModItem
 	{
-
+  
 		public override void HoldItem(Player player){ 
             player.AddBuff(BuffType<Buffs.normalToolsBuff>(), 60);
             //Lighting.AddLight(p.position, 1f, 1f, 1f); 
